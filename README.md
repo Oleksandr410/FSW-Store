@@ -137,4 +137,3 @@ Confira a demonstração ao vivo: [FSW Store Production](https://fsw-store-xi-ei
 
 ---
 
-Desenvolvido com ❤️ por [Tonelopes](https://github.com/tonelopes-dev)
